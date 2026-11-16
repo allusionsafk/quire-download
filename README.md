@@ -2,13 +2,16 @@
 
 Turn a digital book into printable sheets, covers and binding instructions. By [ALLUSIONS](https://allusions.pages.dev/).
 
-Download: **[Quire.exe](https://github.com/allusionsafk/quire-download/releases/latest/download/Quire.exe)** (version 1.2.1, Windows 10/11, 64-bit, about 78 MB)
+Download: **[Quire.exe](https://github.com/allusionsafk/quire-download/releases/latest/download/Quire.exe)** (version 1.2.2, Windows 10/11, 64-bit, about 78 MB)
 
 No installer is needed. Save the file and double-click it.
 
 If Windows shows "Windows protected your PC", click **More info**, then **Run anyway**. This appears because the app isn't code-signed.
 
 Each release lists the file's SHA-256 checksum in `SHA256SUMS.txt`.
+
+## New in 1.2.2
+- Turn on "Book title in each label" (Book > Marks) and every printed sheet says which book it belongs to, so two books printed one after the other can't get mixed.
 
 ## New in 1.2.1
 - Two-piece covers can print on photo paper that's glossy on one side only. Fold arrows, glue areas and short instructions are printed only on the parts the finished book hides, so the front, spine and back stay clean.
